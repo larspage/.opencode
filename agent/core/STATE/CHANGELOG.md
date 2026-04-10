@@ -33,3 +33,10 @@ History of changes to Moe (Larry's coding partner agent).
 - Initial commit b672b99 with all agent files + STATE
 - First commit: agent definitions, context, skills, tool
 - Ready for worktrees when multiple windows needed
+
+### 2026-04-10T19:30:00Z [launch]: Create moe-launch.sh
+- Adapted from zoe-launch.sh for OpenCode
+- Uses PROJECTS.md (same as zoe)
+- Creates worktrees with STATE/ and OPENCODE.md
+- Runs 'opencode .' (Moe is default agent)
+- Worktrees use ~/zoe/OPENCODE.md for identity

@@ -4,7 +4,7 @@ Active tasks and pending work.
 
 ## Active
 
-- [ ] Future: Use git worktrees for multiple OpenCode windows
+- [ ] Test moe-launch.sh with a project
 
 ## Pending Your Input
 
@@ -18,3 +18,5 @@ Active tasks and pending work.
 - [x] 2026-04-10: Initialize git in .opencode
 - [x] 2026-04-10: First commit with all agent files
 - [x] 2026-04-10: Decide state ownership - keep separate (Moe=conversation, TaskManager=task)
+- [x] 2026-04-10: Create moe-launch.sh (adapted from zoe-launch)
+- [x] 2026-04-10: Create OPENCODE.md base identity
