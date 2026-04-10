@@ -4,11 +4,12 @@ Pending input from Larry.
 
 ## Open Threads
 
-- 2026-04-10T18:50:00Z [questions]: Git + worktree setup
-  - Next question: Do you want to initialize git in .opencode?
+- (None currently)
 
 ## Resolved
 
+- 2026-04-10T18:50:00Z [questions]: Git + worktree setup - DONE
+  - Initialized git in .opencode, first commit
 - 2026-04-10T18:29:00Z [analysis]: Moe vs OpenCoder - DONE
   - We tested delegation, confirmed Moe can invoke subagents
 - 2026-04-10T18:45:00Z [state]: STATE files - DONE

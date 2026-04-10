@@ -4,8 +4,7 @@ Active tasks and pending work.
 
 ## Active
 
-- [ ] Set up git + worktrees for concurrent OpenCode windows
-- [ ] Decide git location for .opencode repo
+- [ ] Future: Use git worktrees for multiple OpenCode windows
 
 ## Pending Your Input
 
@@ -16,3 +15,5 @@ Active tasks and pending work.
 - [x] 2026-04-10: Analyze Moe vs OpenCoder - delegation test
 - [x] 2026-04-10: Create STATE files
 - [x] 2026-04-10: Decide state architecture
+- [x] 2026-04-10: Initialize git in .opencode
+- [x] 2026-04-10: First commit with all agent files

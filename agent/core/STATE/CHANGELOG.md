@@ -28,3 +28,8 @@ History of changes to Moe (Larry's coding partner agent).
 - Moe cons: no TaskManager, no parallel exec (mitigable)
 - OpenCoder: overkill for simple tasks
 - State: hybrid model selected
+
+### 2026-04-10T18:55:00Z [setup]: Git initialized in .opencode
+- Initial commit b672b99 with all agent files + STATE
+- First commit: agent definitions, context, skills, tool
+- Ready for worktrees when multiple windows needed
