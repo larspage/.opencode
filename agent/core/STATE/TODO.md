@@ -17,3 +17,4 @@ Active tasks and pending work.
 - [x] 2026-04-10: Decide state architecture
 - [x] 2026-04-10: Initialize git in .opencode
 - [x] 2026-04-10: First commit with all agent files
+- [x] 2026-04-10: Decide state ownership - keep separate (Moe=conversation, TaskManager=task)
