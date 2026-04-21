@@ -32,6 +32,27 @@ tags:
 
 ---
 
+## What ">Docs" Means
+
+**When creating docs for a NEW project, ALWAYS create:**
+
+```
+PROJECT/
+├── docs/           # Planning documentation (SPEC.md, TODO.md, etc.)
+└── STATE/          # Moe state tracking
+    ├── CHANGELOG.md
+    ├── MAILBOX.md
+    └── TODO.md
+```
+
+**Key insight:** Planning docs (`docs/`) and state tracking (`STATE/`) are DIFFERENT:
+- `docs/` = planning, specifications, roadmaps
+- `STATE/` = active tracking, changelog, open threads
+
+When asked to "create docs for a new project", I should create BOTH.
+
+---
+
 ## What I Do
 
 - **Read state**: Load MAILBOX.md, TODO.md, CHANGELOG.md
