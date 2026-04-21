@@ -1,7 +1,8 @@
 ---
 name: OpenAgent
 description: "Universal agent for answering queries, executing tasks, and coordinating workflows across any domain"
-mode: primary
+mode: subagent
+hidden: true
 temperature: 0.2
 permission:
   bash:

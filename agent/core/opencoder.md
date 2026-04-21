@@ -1,7 +1,8 @@
 ---
 name: OpenCoder
 description: "Orchestration agent for complex coding, architecture, and multi-file refactoring"
-mode: primary
+mode: subagent
+hidden: true
 temperature: 0.1
 permission:
   bash:

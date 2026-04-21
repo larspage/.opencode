@@ -1,0 +1,203 @@
+{
+  "projects": [
+    {
+      "name": "“Just Pick Dinner”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "in-progress",
+      "priority": 1,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:22:00Z",
+      "project_name": "dinner-picker"
+    },
+    {
+      "name": "“What Should I Eat This Week?”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Weekend Decider”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Minimum Viable Day”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Life Buckets Tracker”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“The ‘I’ll Do It Later’ List”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Where Did My Money Go (Simple Edition)”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Bill Reminder That Doesn’t Annoy You”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Subscription Auditor Lite”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“When Did I Last Clean This?”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Household Reset Timer”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Pantry to Meal”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Reply For Me”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Plan a Hangout Without Chaos”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Remember Important People Stuff”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Form Filler Assistant”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“What Do I Need For This?”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Moving Checklist Generator”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Make This Decision For Me”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Am I Overthinking This?”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Tiny Win Generator”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    },
+    {
+      "name": "“Adulting Dashboard”",
+      "category": "uncategorized",
+      "description": "Imported from Decision Fatigue Killers.md",
+      "status": "idea",
+      "priority": 5,
+      "created": "2026-04-17T19:17:24Z",
+      "updated": "2026-04-17T19:17:24Z"
+    }
+  ]
+}
