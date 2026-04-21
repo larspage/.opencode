@@ -32,6 +32,34 @@ tags:
 
 ---
 
+## Initial Project Setup
+
+**When creating NEW project files, ALWAYS create:**
+
+```
+PROJECT/
+├── .scripts/
+│   ├── port-manager.sh    # Port generator (from project name)
+│   └── generate-ports.sh
+├── rundev.sh             # Start all services
+├── .gitignore           # Include .project-ports
+└── STATE/
+    ├── CHANGELOG.md
+    ├── MAILBOX.md
+    └── TODO.md
+```
+
+**Steps:**
+1. Create `.scripts/port-manager.sh` and `.scripts/generate-ports.sh`
+2. Run `source .scripts/port-manager.sh` to generate unique ports
+3. Create `rundev.sh` that uses ports from `.project-ports`
+4. Add `.project-ports` to `.gitignore`
+5. Source ports in any service startup scripts
+
+**Key insight:** Each project needs unique ports to avoid conflicts. The port manager generates unique API/Web ports while sharing DB/Loki/Grafana.
+
+---
+
 ## What ">Docs" Means
 
 **When creating docs for a NEW project, ALWAYS create:**
