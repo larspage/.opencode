@@ -69,3 +69,14 @@ History of changes to Moe (Larry's coding partner agent).
 - Root cause: Didn't recognize as "new project", planning vs tracking confusion
 - Fix: Updated sync skill to emphasize proactive use
 - Fix: Created STATE files for life-is-hard-planner after the fact
+
+## 2026-04-22
+
+### 2026-04-22T00:00:00Z [add]: Logging standard for all projects
+- Created logging-standard.md quick reference
+- Winston + Loki + Grafana setup copy-paste ready
+- Updated Moe persona to require logging in all projects
+
+---
+
+*Last Updated: 2026-04-22*
