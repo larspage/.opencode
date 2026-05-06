@@ -77,6 +77,11 @@ History of changes to Moe (Larry's coding partner agent).
 - Winston + Loki + Grafana setup copy-paste ready
 - Updated Moe persona to require logging in all projects
 
+### 2026-05-06T16:00:00Z [state]: Pushed state files to GitHub
+- Committed and pushed CHANGELOG.md (updated), logging-standard.md, moe-persona-update.md
+- All agent/core/STATE/ files now synced to origin/master
+- Root STATE/ directory left unpushed (duplicate location)
+
 ---
 
-*Last Updated: 2026-04-22*
+*Last Updated: 2026-05-06*

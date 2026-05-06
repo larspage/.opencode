@@ -11,6 +11,11 @@ Pending input from Larry.
 
 ## Resolved
 
+- 2026-05-06T16:00:00Z [state]: State files pushed to GitHub - DONE
+  - Committed CHANGELOG.md update, logging-standard.md, moe-persona-update.md
+  - Pushed to origin/master per Larry's request
+  - Root STATE/ directory identified as duplicate, left unpushed
+
 - 2026-04-17T19:25:00Z [add]: Project name + init command - DONE
   - Added project_name field for friendly names
   - Added init command to set name + status in one step
